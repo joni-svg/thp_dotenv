@@ -7,4 +7,4 @@ Dotenv.load('.env') # Ceci appelle le fichier .env (situé dans le même dossier
 puts ENV['TWITTER_API_SECRET']
 
 #Autre exemple 
-puts ENV['BEST_WEBSITE_EVER']
+puts ENV['BEST_WEBSITE_EVER']git
